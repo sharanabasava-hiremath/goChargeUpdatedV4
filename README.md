@@ -1,4 +1,4 @@
-# goChargeUpdatedV4
+# Go-Charge Application for smart cars
 • A Mobile Sensor Cloud Infrastructure (IaaS) for smart city transportation to support and manage mobile sensor resources and infrastructure.
 
 • The Go Charge Application built on top of the IaaS enables the users to locate the nearest charging point based on their current location and book the charging slot in real time.
